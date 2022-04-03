@@ -1,6 +1,4 @@
-### Hi there, I'm Łukasz - aka Gaben 👋 
-
-## I'm 17 years old 
+### Hi there, I'm Łukasz 👋 
 
 - 🌱 I’m currently learning react
 - 🥅 2022 Goals: Find work/Internship in React or any other JS Framework
