@@ -8,7 +8,7 @@
 The application was developed under the supervision of Web24.com.pl employees.
 Vue and Laravel
 
-2:<a href="https://github.com/gabenn/crwn-clothing">Ecommerce Shop</a>
+2: <a href="https://github.com/gabenn/crwn-clothing">Ecommerce Shop</a>
 
 3: Youtube video with my closed projects 
 https://www.youtube.com/watch?v=dGjGtWjk9E0
