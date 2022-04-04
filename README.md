@@ -1,6 +1,6 @@
 ### Hi there, I'm Łukasz 👋 
 - I'm 18 years old.
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react and working on Ecommerce shop project
 - 🥅 2022 Goals: Find work/Internship in React or any other JS Framework
 
 ### My Projects:
