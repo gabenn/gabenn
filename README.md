@@ -1,7 +1,7 @@
 ### Hi there, I'm Łukasz 👋 
 - 🌱 I’m currently learning react
 - 🥅 2022 Goals: Find work/Internship in React or any other JS Framework
-- 
+
 ### My Projects:
 
 https://www.youtube.com/watch?v=dGjGtWjk9E0
