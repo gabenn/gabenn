@@ -1,6 +1,6 @@
 ### Hi there, I'm Łukasz 👋 
 - I'm 18 years old.
-- 🥅 2022 Goals: Increasing my programming skills and knowledge.
+- 🥅 2023 Goals: Increasing my programming skills and knowledge.
 
 ### My Projects:
 
@@ -15,6 +15,9 @@ Vue and Laravel
 
 4: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
 ### Languages and Tools:
+
+Polish (native)<br/>
+English (B2)<br/>
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
