@@ -1,5 +1,5 @@
 ### Hi there, I'm Łukasz 👋 
-- I'm 18 years old.
+- I'm 19 years old.
 - 🥅 2023 Goals: Increasing my programming skills and knowledge.
 
 ### My Projects:
