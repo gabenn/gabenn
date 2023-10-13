@@ -4,15 +4,13 @@
 ### My Projects:
 
 1: <a href="https://github.com/gabenn/CourseApp">Course App</a>
-Vue and Laravel
-
-2: <a href="https://github.com/gabenn/shopPro">Clothing Shop</a> Vue Laravel
+Vue and Laravel - Currently offline
 
 <a href="https://www.youtube.com/watch?v=dGjGtWjk9E0">Youtube video</a> with projects below
 
-3: <a href="https://github.com/gabenn/alarmsys">Company Page</a> React
+2: <a href="https://github.com/gabenn/alarmsys">Company Page</a> React
 
-4: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
+3: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
 ### Languages and Tools:
 
 Polish (native)<br/>
