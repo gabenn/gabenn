@@ -2,10 +2,9 @@
 
 ### My Projects:
 
-1: <a href="https://github.com/gabenn/CourseApp">Course App</a>
-Vue and Laravel - Currently offline
+1. <a href="https://bhpsoft.pl" target="_blank">Bhpsoft</a> - <a href="https://demo.bhpsoft.pl" target="_blank"> Demo </a> SaaS OSH platform made with Laravel and Vue  
+2. <a href="https://metamistic.com" target="_blank"> Metamistic </a> Vue and Laravel with Laravel Nova admin panel 
 
-2: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
 ### Languages and Tools:
 
 Polish (native)<br/>
