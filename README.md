@@ -1,20 +1,15 @@
 ### Hi there, I'm Łukasz 👋 
-- I'm 20 years old.
 
 ### My Projects:
 
 1: <a href="https://github.com/gabenn/CourseApp">Course App</a>
 Vue and Laravel - Currently offline
 
-<a href="https://www.youtube.com/watch?v=dGjGtWjk9E0">Youtube video</a> with projects below
-
-2: <a href="https://github.com/gabenn/alarmsys">Company Page</a> React
-
-3: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
+2: <a href="https://github.com/gabenn/Snowboard-Game">Snowboard</a> (endless game) vanilla javascript
 ### Languages and Tools:
 
 Polish (native)<br/>
-English (B2)<br/>
+English (C1)<br/>
 
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/> </a> 
