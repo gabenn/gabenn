@@ -2,8 +2,10 @@
 
 ### My Projects:
 
-1. <a href="https://bhpsoft.pl" target="_blank">Bhpsoft</a> - <a href="https://demo.bhpsoft.pl" target="_blank"> Demo </a> SaaS OSH platform made with Laravel and Vue  
-2. <a href="https://metamistic.com" target="_blank"> Metamistic </a> Vue and Laravel with Laravel Nova admin panel 
+1. <a href="https://bhpsoft.pl" target="_blank">Bhpsoft</a> - <a href="https://demo.bhpsoft.pl" target="_blank"> Demo</a> SaaS OSH platform made with Laravel and Vue  
+2. <a href="https://metamistic.com" target="_blank">Metamistic</a> Vue and Laravel with Laravel Nova admin panel 
+3. <a href="https://penta.com.pl" target="_blank">Penta</a> Landing page made with Vue and Laravel
+4. <a href="https://ibu.pl" target="_blank">Ibu</a> Landing page made with Nuxt and strapi  
 
 ### Languages and Tools:
 
