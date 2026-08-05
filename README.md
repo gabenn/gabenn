@@ -1,50 +1,98 @@
 # Łukasz Cysewski
 
-**Fullstack Developer · Laravel + Vue**
+## Fullstack Developer · Laravel + Vue
 
-I build web applications end to end: from scoping and architecture, through implementation, to deployment and long-term maintenance. 3+ years of commercial experience: 10+ projects delivered end to end and contributions to dozens of commercial codebases, from SaaS platforms to e-commerce. Open to B2B collaboration.
+Building SaaS platforms and business applications with Laravel and Vue, from architecture to deployment.
 
-## Featured work
+- 💼 3+ years of commercial experience
+- 🚀 10+ commercial projects delivered end to end
+- 👥 Thousands of end users across production systems
+- 🏗️ SaaS, business platforms, e-commerce
+- 💳 Payments, subscriptions, KSeF & API integrations
+- 🤝 Open to B2B collaboration
 
-Commercial projects delivered during my work at Web24 software house.
+---
 
-### [Bhpsoft](https://bhpsoft.pl) · [live demo](https://demo.bhpsoft.pl)
+## Featured Projects
 
-SaaS platform for occupational safety (OSH) serving dozens of companies and thousands of users, built as a set of services: the core application, a billing service and a training materials API. I built the subscription payment and billing system with KSeF and Infakt e-invoicing integrations, the training materials service exposed over an API, a feature toggle mechanism, and redesigned the frontend layout.
+Projects delivered during my work at **Web24 Software House**.
+
+### [Bhpsoft](https://bhpsoft.pl) · [Live Demo](https://demo.bhpsoft.pl)
+
+Occupational Safety (OSH) SaaS platform serving dozens of companies and thousands of users.
+
+Highlights:
+- Built subscription billing and payment system
+- Integrated KSeF and Infakt e-invoicing
+- Developed a dedicated training materials API
+- Implemented feature flags
+- Redesigned major parts of the frontend
+
 `Laravel` `Vue` `MySQL` `Redis` `Docker`
+
+---
 
 ### Kraków Airport
 
-Public website and CMS of Kraków Airport: live flight information imported over SOAP with caching, throttling and a rate-limited API, a multilingual CMS built on Laravel Nova with flexible content sections, and an event space reservation module. I carried out a major platform upgrade from PHP 7.4 / Laravel 8 to PHP 8.4 / Laravel 12, and delivered WCAG accessibility improvements and the e2e test setup.
+Official website and CMS for Kraków Airport.
+
+Highlights:
+- SOAP flight data integration with caching and throttling
+- Multilingual CMS built with Laravel Nova
+- Event space reservation module
+- Platform upgrade from PHP 7.4 / Laravel 8 to PHP 8.4 / Laravel 12
+- WCAG accessibility improvements
+- End-to-end testing setup
+- Performance optimization and platform upgrades
+
 `Laravel` `Livewire` `Laravel Nova` `Redis`
+
+---
 
 ### Kamiński Configurator
 
-Intelligent product configurator: dynamic forms generated from a customizable question tree, integrated with the OpenAI API.
+AI-powered product configurator.
+
+Highlights:
+- Dynamic decision tree engine
+- Configurable form builder
+- OpenAI API integration
+
 `Laravel` `Vue` `OpenAI API`
+
+---
 
 ### [Metamistic](https://metamistic.com)
 
-Web platform developed and deployed end to end, with an admin panel built on Laravel Nova.
+Business platform developed and deployed end-to-end with an administration panel based on Laravel Nova.
+
 `Laravel` `Vue` `Laravel Nova`
 
-### More
+---
 
-- PORP (Pomorskie Obserwatorium Rynku Pracy) - labour market observatory platform (`Laravel` + `Vue`)
-- Pomorska Noc Naukowa - platform for the Pomeranian science night event (`Laravel` + `Vue`)
-- [Ibu](https://ibu.pl) - company website: `Nuxt` frontend + `Strapi` CMS
-- [Penta](https://penta.com.pl) - landing page: `Vue` + `Laravel`
+### Other Commercial Projects
 
-## What I do
+- **PORP** – labour market observatory platform (`Laravel` · `Vue`)
+- **Pomorska Noc Naukowa** – event platform (`Laravel` · `Vue`)
+- **[IBU](https://ibu.pl)** – company website (`Nuxt` · `Strapi`)
+- **[Penta](https://penta.com.pl)** – landing page (`Laravel` · `Vue`)
 
-- Full project lifecycle: requirements analysis, architecture, implementation, deployment, support
-- Payment and subscription systems, e-invoicing integrations (KSeF, Infakt)
-- Third-party API integrations: OpenAI, booking.com taxi suppliers and payment providers
-- Authentication, notification and queue-based systems
-- Dockerized environments, CI/CD pipelines, DNS and e-mail infrastructure
-- Automated testing with PHPUnit and Pest, code reviews, developer onboarding
+---
 
-## Stack
+## Expertise
+
+- End-to-end web application development
+- System architecture and backend design
+- SaaS platforms and subscription billing
+- KSeF, Infakt and third-party API integrations
+- Authentication, notifications and queue-based systems
+- Docker, CI/CD, DNS and e-mail infrastructure
+- Automated testing (PHPUnit, Pest)
+- Code reviews and developer onboarding
+
+---
+
+## Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -56,12 +104,21 @@ Web platform developed and deployed end to end, with an admin panel built on Lar
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Also worked with: React, Strapi, TypeScript, C#, Inertia
+**Also worked with:** React · TypeScript · Inertia.js · Strapi · C#
+
+---
+
 ## About
 
-- 🎓 BSc in Computer Science in progress at Gdańsk University of Technology (graduating 2027), IT Technician in software development
-- 🗣️ Polish (native), English (C1)
+- 🎓 BSc in Computer Science (in progress) – Gdańsk University of Technology, expected graduation in 2027
+- 💻 IT Technician in Software Development
+- 🌍 Polish (native) · English (C1)
+
+---
 
 ## Contact
 
-📫 **kontakt@lukaszcysewski.me** · [LinkedIn](https://www.linkedin.com/in/lukasz-cysewski-dev)
+📧 **kontakt@lukaszcysewski.me**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/lukasz-cysewski-dev
