@@ -1,26 +1,67 @@
-### Hi there, I'm Łukasz 👋 
+# Łukasz Cysewski
 
-### My Projects:
+**Fullstack Developer · Laravel + Vue**
 
-1. <a href="https://bhpsoft.pl" target="_blank">Bhpsoft</a> - <a href="https://demo.bhpsoft.pl" target="_blank"> Demo</a> SaaS OSH platform made with Laravel and Vue  
-2. <a href="https://metamistic.com" target="_blank">Metamistic</a> Vue and Laravel with Laravel Nova admin panel 
-3. <a href="https://penta.com.pl" target="_blank">Penta</a> Landing page made with Vue and Laravel
-4. <a href="https://ibu.pl" target="_blank">Ibu</a> Landing page made with Nuxt and strapi  
+I build web applications end to end: from scoping and architecture, through implementation, to deployment and long-term maintenance. 3+ years of commercial experience: 10+ projects delivered end to end and contributions to dozens of commercial codebases, from SaaS platforms to e-commerce. Open to B2B collaboration.
 
-### Languages and Tools:
+## Featured work
 
-Polish (native)<br/>
-English (C1)<br/>
+Commercial projects delivered during my work at Web24 software house.
 
-<p align="left"> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="laravel" width="40" height="40"/></a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
-</p>
+### [Bhpsoft](https://bhpsoft.pl) · [live demo](https://demo.bhpsoft.pl)
 
+SaaS platform for occupational safety (OSH) serving dozens of companies and thousands of users, built as a set of services: the core application, a billing service and a training materials API. I built the subscription payment and billing system with KSeF and Infakt e-invoicing integrations, the training materials service exposed over an API, a feature toggle mechanism, and redesigned the frontend layout.
+`Laravel` `Vue` `MySQL` `Redis` `Docker`
+
+### Kraków Airport
+
+Public website and CMS of Kraków Airport: live flight information imported over SOAP with caching, throttling and a rate-limited API, a multilingual CMS built on Laravel Nova with flexible content sections, and an event space reservation module. I carried out a major platform upgrade from PHP 7.4 / Laravel 8 to PHP 8.4 / Laravel 12, and delivered WCAG accessibility improvements and the e2e test setup.
+`Laravel` `Livewire` `Laravel Nova` `Redis`
+
+### Kamiński Configurator
+
+Intelligent product configurator: dynamic forms generated from a customizable question tree, integrated with the OpenAI API.
+`Laravel` `Vue` `OpenAI API`
+
+### [Metamistic](https://metamistic.com)
+
+Web platform developed and deployed end to end, with an admin panel built on Laravel Nova.
+`Laravel` `Vue` `Laravel Nova`
+
+### More
+
+- PORP (Pomorskie Obserwatorium Rynku Pracy) - labour market observatory platform (`Laravel` + `Vue`)
+- Pomorska Noc Naukowa - platform for the Pomeranian science night event (`Laravel` + `Vue`)
+- [Ibu](https://ibu.pl) - company website: `Nuxt` frontend + `Strapi` CMS
+- [Penta](https://penta.com.pl) - landing page: `Vue` + `Laravel`
+
+## What I do
+
+- Full project lifecycle: requirements analysis, architecture, implementation, deployment, support
+- Payment and subscription systems, e-invoicing integrations (KSeF, Infakt)
+- Third-party API integrations: OpenAI, booking.com taxi suppliers and payment providers
+- Authentication, notification and queue-based systems
+- Dockerized environments, CI/CD pipelines, DNS and e-mail infrastructure
+- Automated testing with PHPUnit and Pest, code reviews, developer onboarding
+
+## Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Also worked with: React, Strapi, TypeScript, C#, Inertia
+## About
+
+- 🎓 BSc in Computer Science in progress at Gdańsk University of Technology (graduating 2027), IT Technician in software development
+- 🗣️ Polish (native), English (C1)
+
+## Contact
+
+📫 **kontakt@lukaszcysewski.me** · [LinkedIn](https://www.linkedin.com/in/lukasz-cysewski-dev)
