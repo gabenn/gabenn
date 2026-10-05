@@ -4,7 +4,7 @@
 
 Building SaaS platforms and business applications with Laravel and Vue, from architecture to deployment.
 
-- 💼 3+ years of commercial experience
+- 💼 4+ years of commercial experience
 - 🚀 10+ commercial projects delivered end to end
 - 👥 Thousands of end users across production systems
 - 🏗️ SaaS, business platforms, e-commerce
